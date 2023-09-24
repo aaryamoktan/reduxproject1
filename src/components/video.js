@@ -13,7 +13,7 @@ function Video(props)
                 <form>
                     <div className="main_input">
                         <input type="text">
-mvkd
+
                         </input>
                     </div>
                     <div className="secMain">
